@@ -1,7 +1,5 @@
 # atoship PHP SDK
 
-[![Packagist Version](https://img.shields.io/packagist/v/atoship/php-sdk.svg)](https://packagist.org/packages/atoship/php-sdk)
-[![PHP Version](https://img.shields.io/packagist/php-v/atoship/php-sdk.svg)](https://packagist.org/packages/atoship/php-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/github/workflow/status/atoship/sdk-php/CI)](https://github.com/atoship/sdk-php/actions)
 
