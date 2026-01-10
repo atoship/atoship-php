@@ -585,7 +585,7 @@ $config = Configuration::builder()
 ## Getting Help
 
 - 📧 Email: support@atoship.com
-- 📚 Documentation: https://docs.atoship.com/sdk/php
+- 📚 Documentation: https://atoship.com/developers
 - 🐛 Issues: https://github.com/atoship/sdk-php/issues
 - 💬 Community: https://community.atoship.com
 

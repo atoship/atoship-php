@@ -18,12 +18,12 @@
             "homepage": "https://atoship.com"
         }
     ],
-    "homepage": "https://docs.atoship.com/sdk/php",
+    "homepage": "https://atoship.com/developers",
     "support": {
         "email": "support@atoship.com",
         "issues": "https://github.com/atoship-LLC/atoship-php/issues",
         "source": "https://github.com/atoship-LLC/atoship-php",
-        "docs": "https://docs.atoship.com/sdk/php"
+        "docs": "https://atoship.com/developers"
     },
     "require": {
         "php": ">=7.4",
